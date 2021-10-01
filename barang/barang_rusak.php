@@ -25,13 +25,20 @@
   </head>
   <body>
         <!-- Navbar -->
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <a class="btn btn-light" href="../home.php">Dashboard</a>
-
-        </nav>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light" >
+    <div class="container-fluid">
+       Dashboard
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        
+       
+        </div>
+      </div>
+      <form class="d-flex">
+            
+            <a href="../keluar.php" class="btn btn-outline-success" type="submit">keluar</a>
+          </form>
+    </nav>
+        
         <br><br><br>
             <center><h2></h2></center>
         <!-- CARDs -->

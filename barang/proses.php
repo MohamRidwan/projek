@@ -9,6 +9,8 @@ if(isset($_POST['save'])){
     $nama_barang = $_POST['nama_barang'];
     $status = $_POST['status'];
     $jumlah = $_POST['jumlah'];
+    // $date = $row['date'];
+    // $date = date('m.d.Y', strtotime($row))
     
 
     if ($aksi == "create"){

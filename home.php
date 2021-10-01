@@ -33,13 +33,13 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         
        
+        </div>
       </div>
-    </div>
-    <form class="d-flex">
-          
-          <a href="keluar.php" class="btn btn-outline-success" type="submit">keluar</a>
-        </form>
-  </nav>
+      <form class="d-flex">
+            
+            <a href="keluar.php" class="btn btn-outline-success" type="submit">keluar</a>
+          </form>
+    </nav>
   <br><br><br>><center>
   <img src="logo.png" height="200px">
             <h2>Salamat Datang Di Data Inventaris Sekolah</h2></center>
